@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/startmenu.unity
+    guid: 6afed05a10e944d439187cd6730ee721
+  - enabled: 0
+    path: 
+    guid: f90810974c1c9ed4e9fbdfcbde6aa2ba
+  - enabled: 0
+    path: 
+    guid: 86ddbcb0c7a44e84990fce95c44095df
+  - enabled: 1
+    path: Assets/Scene/HideMap.unity
+    guid: 3f05d1c08af082f4c80d1e40a446e366
+  - enabled: 0
+    path: 
+    guid: f343ebcb5c027674b8205f0cb231cccb
+  - enabled: 0
+    path: 
+    guid: 42a8f075f598e7c46ac1439527aee51d
+  - enabled: 0
+    path: 
+    guid: 6f24e1822f8e8324fa1bf3d8d85aeaa1
+  - enabled: 1
+    path: Assets/Scene/gameover.unity
+    guid: b1deef110cb0e354287ed641b9528001
+  - enabled: 1
+    path: Assets/Scene/Guidence.unity
+    guid: 5588552fab3c39b41aa55b72bc542604
+  - enabled: 1
+    path: Assets/Scene/End.unity
+    guid: ca3a6e8878e420c44902c75656ae4344
+  - enabled: 1
+    path: Assets/Scene/PPT.unity
+    guid: 9192dad930e90e24581189420a4a2105
+  - enabled: 1
+    path: Assets/Scene/talktest.unity
+    guid: d5ed139d12705344cb7bf9118eac3739
+  - enabled: 1
+    path: Assets/Scene/Loading.unity
+    guid: 21ccc7c83267ca840b5b6e7d3e2a53b3
+  - enabled: 1
+    path: Assets/Scene/Level1.unity
+    guid: 3ea5e64d7d08d4c40b396e1c23f857fc
+  - enabled: 1
+    path: Assets/Scene/Level_2.unity
+    guid: 2f28246bcab46b347b7460feb44b1e69
+  - enabled: 1
+    path: Assets/Scene/bossroom.unity
+    guid: 16ad364b4e9d6ae4d85ef042f5109304
+  - enabled: 1
+    path: Assets/Scene/Level2_1.unity
+    guid: fb3ec4b78ea646c44a01ceaa78ab286c
+  - enabled: 1
+    path: Assets/Scene/talktest1.unity
+    guid: 65125107eab17444caab661088c2fc23
+  - enabled: 1
+    path: Assets/Scene/talktest2.unity
+    guid: 17d4d3189fe800c4e8b96c7098e015df
+  - enabled: 1
+    path: Assets/Scene/Ending1.unity
+    guid: 81f6dabe49fb578448c2f8be927059b5
+  - enabled: 1
+    path: Assets/Scene/Ending2.unity
+    guid: a4e6a7636b15b3c45ad2e4b184edaa3c
+  - enabled: 1
+    path: Assets/Scene/talktest3.unity
+    guid: a56a0dafecf45a24b9ebbffdd1a835a0
